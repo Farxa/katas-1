@@ -19,6 +19,7 @@ function numberIsDistinct(num) {
 			return false
 		}
 	}
+
 	return true
 }
 
